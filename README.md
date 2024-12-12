@@ -1,16 +1,19 @@
-### Hi there 👋
+👨‍💻 Hey there, I’m a Cyber Wizard! 🧙‍♂️
 
-<!--
-**hashmap0x012/hashmap0x012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 SysAdmin | Network Ninja | Security Enthusiast
+💻 By day: Keeping IT infrastructure running like clockwork.
+🔐 By night: Part-time Security Analyst & Bug Hunter 🕵️‍♂️ — because breaking things (ethically) is fun!
 
-Here are some ideas to get you started:
+⚙️ What I do:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Manage & secure complex IT environments 🌐
+
+Hunt for bugs & vulnerabilities 🐛🔍
+
+Automate, troubleshoot, and harden systems 🔒
+
+
+🎯 Why?
+Because messing with systems to find flaws isn’t just a job — it’s a passion! 🚀
+
+Let’s geek out together! 🤖💥
