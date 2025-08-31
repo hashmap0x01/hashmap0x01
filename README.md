@@ -1,19 +1,9 @@
-👨‍💻 Hey there, I’m a Cyber Wizard! 🧙‍♂️
+# 👨‍💻 Cyber Wizard | Technologist | Security Hobbyist
 
-🔧 SysAdmin | Network Ninja | Security Enthusiast
-💻 By day: Keeping IT infrastructure running like clockwork.
-🔐 By night: Part-time Security Analyst & Bug Hunter 🕵️‍♂️ — because breaking things (ethically) is fun!
+🔧 **SysAdmin & Network Ninja** by day.  
+🔐 **Security Analyst & Bug Hunter** by night.  
 
-⚙️ What I do:
+🚀 **What I Love:**  
+Unraveling tech puzzles, ethically breaking systems to make them stronger, and fortifying digital defenses.  
 
-Manage & secure complex IT environments 🌐
-
-Hunt for bugs & vulnerabilities 🐛🔍
-
-Automate, troubleshoot, and harden systems 🔒
-
-
-🎯 Why?
-Because messing with systems to find flaws isn’t just a job — it’s a passion! 🚀
-
-Let’s geek out together! 🤖💥
+Let’s geek out and build something secure! 🤖💥
