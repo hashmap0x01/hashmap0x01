@@ -7,6 +7,6 @@ ji# 👨‍💻 Cyber Wizard | Technologist | Security Hobbyist
 Unraveling tech puzzles, ethically breaking systems to make them stronger, and fortifying digital defenses.  
 
 **Skills**
-[![My Skills](https://skillicons.dev/icons?i=linux,arch,kali,git,docker,less,md,regex,mysql,neovim,nginx,nix,obsidian,postman,pr,py,go,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,arch,kali,git,docker,less,md,regex,mysql,neovim,nginx,nix,obsidian,postman,powershell,py,go,js)](https://skillicons.dev)
 
 Let’s geek out and build something secure! 🤖💥
